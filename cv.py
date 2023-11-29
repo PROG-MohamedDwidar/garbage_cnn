@@ -1,3 +1,5 @@
+#skip this code i was learing on it
+
 import cv2
 import pandas as pd
 import numpy as np
